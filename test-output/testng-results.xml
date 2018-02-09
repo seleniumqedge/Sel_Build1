@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33095" started-at="2018-02-05T07:39:43Z" finished-at="2018-02-05T07:40:17Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="25052" started-at="2018-02-05T07:39:43Z" finished-at="2018-02-05T07:40:09Z">
+      <class name="day11_waits.Implicit_Wait">
+        <test-method status="PASS" signature="implicit()[pri:0, instance:day11_waits.Implicit_Wait@326de728]" name="implicit" duration-ms="25041" started-at="2018-02-05T13:09:44Z" finished-at="2018-02-05T13:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- implicit -->
+      </class> <!-- day11_waits.Implicit_Wait -->
+    </test> <!-- Test2 -->
+    <test name="Test" duration-ms="33095" started-at="2018-02-05T07:39:43Z" finished-at="2018-02-05T07:40:17Z">
+      <class name="day10_TestNG.Windows_handle">
+        <test-method status="PASS" signature="f()[pri:0, instance:day10_TestNG.Windows_handle@47d384ee]" name="f" duration-ms="33071" started-at="2018-02-05T13:09:44Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- day10_TestNG.Windows_handle -->
+      <class name="day10_TestNG.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:day10_TestNG.NewTest@3ac42916]" name="beforeTest" is-config="true" duration-ms="15" started-at="2018-02-05T13:09:43Z" finished-at="2018-02-05T13:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeT()[pri:0, instance:day10_TestNG.NewTest@3ac42916]" name="beforeT" is-config="true" duration-ms="0" started-at="2018-02-05T13:10:17Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeT -->
+        <test-method status="PASS" signature="f23()[pri:1, instance:day10_TestNG.NewTest@3ac42916]" name="f23" duration-ms="0" started-at="2018-02-05T13:10:17Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f23 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day10_TestNG.NewTest@3ac42916]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-02-05T13:10:17Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:day10_TestNG.NewTest@3ac42916]" name="f" duration-ms="0" started-at="2018-02-05T13:10:17Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day10_TestNG.NewTest@3ac42916]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-02-05T13:10:17Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="f12()[pri:2, instance:day10_TestNG.NewTest@3ac42916]" name="f12" duration-ms="0" started-at="2018-02-05T13:10:17Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f12 -->
+        <test-method status="PASS" signature="afterT()[pri:0, instance:day10_TestNG.NewTest@3ac42916]" name="afterT" is-config="true" duration-ms="0" started-at="2018-02-05T13:10:17Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterT -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day10_TestNG.NewTest@3ac42916]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-02-05T13:10:17Z" finished-at="2018-02-05T13:10:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- day10_TestNG.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

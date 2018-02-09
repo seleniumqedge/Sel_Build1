@@ -1,0 +1,15 @@
+
+<suite name="suite2">
+
+	<test name="test1">
+		<classes>
+			<class name="day10_TestNG.NewTest">
+				 <methods>
+        			<include name="f" />
+        			<include name="f23" />
+      			</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>
